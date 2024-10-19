@@ -65,12 +65,12 @@ Our visual identity is centered around simplicity and inclusivity. We're explori
 
 We're always looking for passionate students to join our team! Whether you're a developer, designer, marketer, or just enthusiastic about improving student life in Stockholm, there's a place for you in our project.
 
-To contribute or learn more, please contact us at [insert contact information].
+To contribute or learn more, please contact us at admin@stockholmstudent.com
 
 ## Stay Connected
 
 Follow our progress and get involved through our social media channels:
-- Instagram: [insert handle]
-- Whatsapp Community: [insert link]
+- Instagram: stockholm.student
+- Whatsapp Community: https://chat.whatsapp.com/CnCWtE8oXrSJX3yCTkzVlV
 
 Join us in making student life in Stockholm more connected, informed, and enjoyable!
